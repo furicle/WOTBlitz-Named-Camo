@@ -1,5 +1,7 @@
 #### Complete Name Replacement Camo
 ### Tier Ten
+| Before | After |
+|---|---|
 | Bat 25t| Musketeer|
 | E100| Steady|
 | IS7| Battle Hardened|
@@ -11,6 +13,8 @@
 
 
 ### Lower Tier
+| Before | After |
+|---|---|
 | Pz IV-s| (o)          |
 | Chi-Nu Kai| Shinobi|
 | Jackson| M36 Valor|
@@ -18,11 +22,15 @@
 
 #### Name Addition Camo
 ### Tier Ten
+| Before | After |
+|---|---|
 | T110e5| T110e5 Rebel|
 | AMX 50B| AMX 50B Veteran|
 
 
 ### Lower Tier Name Addition Camo
+| Before | After |
+|---|---|
 | e25| e25 #1|
 | M4aE8| M4ae8 Shrieking|
 | Type 62| Type 62 Dragon|
@@ -39,6 +47,8 @@
 
 
 ### Other permanent camo Name Addition tanks
+| Original | Other |
+|---|---|
 | T34| T34 Independance|
 | IS-6| IS-6 Fearless|
 | JagTig8.8| JagTig 8.8 Snowstorm|
@@ -47,5 +57,7 @@
 
 ### Tanks that don't quite qualify
 These tanks look like permanent camo name addition tanks, but have slight stat differences
+| Original | Other |
+|---|---|
 | M4AE8 | Fury|
 | T34-85 | T34-85 Victory|
