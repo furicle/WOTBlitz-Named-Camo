@@ -1,5 +1,5 @@
-# Tier Ten
-## Complete Name Replacement Camo
+### Tier Ten
+#### Complete Name Replacement Camo
 ```
 Bat 25t             Δ Musketeer
 E100                Δ Steady
@@ -11,21 +11,21 @@ T57 Heavy           Δ Tireless
 STB-1               Δ Adamant
 ```
 
-# Tier Ten
-## Name Addition Camo
+### Tier Ten
+#### Complete Name Replacement Camo
 ```
 T110e5              + T110e5 Rebel
 AMX 50B             + AMX 50B Veteran
 ```
 
-Lower Tier Name Change Camo
+### Lower Tier Name Change Camo
 ```
 Pz IV-s             Δ (o)          
 Chi-Nu Kai          Δ Shinobi
 Jackson             Δ M36 Valor
 ```
 
-Lower Tier Name Addition Camo
+### Lower Tier Name Addition Camo
 ```
 e25                 + #1
 M4aE8               + Shrieking
@@ -42,7 +42,7 @@ Ha-Go               + GuP Type 95
 STA-1               + Rin
 ```
 
-Other permanent camo Name Addition tanks
+### Other permanent camo Name Addition tanks
 ```
 T34                 + Independance
 IS-6                + Fearless
