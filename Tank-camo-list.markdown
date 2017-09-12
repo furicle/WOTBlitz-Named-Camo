@@ -1,15 +1,21 @@
-Tier Ten Complete Name Replacement Camo
+! Tier Ten
+!! Complete Name Replacement Camo
 ```
 Bat 25t             Δ Musketeer
 E100                Δ Steady
 IS7                 Δ Battle Hardened
 Obj. 140            Δ Terror
 Deathstar           Δ Smashing
-AMX 50B             Δ Vetran
 Foch 155            Δ Destroyer
-T110e5              Δ Rebel
 T57 Heavy           Δ Tireless
 STB-1               Δ Adamant
+```
+
+! Tier Ten
+!! Name Addition Camo
+```
+T110e5              + T110e5 Rebel
+AMX 50B             + AMX 50B Veteran
 ```
 
 Lower Tier Name Change Camo
