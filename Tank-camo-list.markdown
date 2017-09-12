@@ -1,15 +1,15 @@
 #### Complete Name Replacement Camo
 ### Tier Ten
-| Before | After |
-|---|---|
-| Bat 25t| Musketeer|
-| E100| Steady|
-| IS7| Battle Hardened|
-| Obj. 140| Terror|
-| Deathstar| Smashing|
-| Foch 155| Destroyer|
-| T57 Heavy| Tireless|
-| STB-1| Adamant|
+| Before | After | Update 4.3 |
+|---|---|---|
+| Bat 25t| Musketeer|Musketeer|
+| E100| Steady| Stalwart|
+| IS7| Battle Hardened|Battle Hardened|
+| Obj. 140| Dread | Terror |
+| Deathstar| Smashing| Hammer |
+| Foch 155| Destroyer|Destroyer|
+| T57 Heavy| Tireless|Tireless|
+| STB-1| Adamant|Adamant|
 
 
 ### Lower Tier
