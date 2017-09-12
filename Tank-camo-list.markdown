@@ -1,5 +1,5 @@
-! Tier Ten
-!! Complete Name Replacement Camo
+# Tier Ten
+## Complete Name Replacement Camo
 ```
 Bat 25t             Δ Musketeer
 E100                Δ Steady
@@ -11,8 +11,8 @@ T57 Heavy           Δ Tireless
 STB-1               Δ Adamant
 ```
 
-! Tier Ten
-!! Name Addition Camo
+# Tier Ten
+## Name Addition Camo
 ```
 T110e5              + T110e5 Rebel
 AMX 50B             + AMX 50B Veteran

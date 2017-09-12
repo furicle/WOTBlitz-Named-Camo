@@ -9,4 +9,4 @@ If you're an old hand at Blitz, or really obsessive about these things, give it 
 
 I'm considering expanding it to a list of all the various camos, but not sure anybody cares.
 
-See also the [forum thread|http://forum.wotblitz.com/index.php?/topic/85109-camouflage-lists-note-blitz-historians-wanted]
+See also the [forum thread](http://forum.wotblitz.com/index.php?/topic/85109-camouflage-lists-note-blitz-historians-wanted)
