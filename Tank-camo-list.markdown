@@ -3,7 +3,7 @@ Tier Ten Complete Name Replacement Camo
 Bat 25t             Δ Musketeer
 E100                Δ Steady
 IS7                 Δ Battle Hardened
-T140                Δ Terror
+Obj. 140            Δ Terror
 Deathstar           Δ Smashing
 AMX 50B             Δ Vetran
 Foch 155            Δ Destroyer
