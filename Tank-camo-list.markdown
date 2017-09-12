@@ -1,51 +1,51 @@
 #### Complete Name Replacement Camo
 ### Tier Ten
-* Bat 25t             Δ Musketeer
-* E100                Δ Steady
-* IS7                 Δ Battle Hardened
-* Obj. 140            Δ Terror
-* Deathstar           Δ Smashing
-* Foch 155            Δ Destroyer
-* T57 Heavy           Δ Tireless
-* STB-1               Δ Adamant
+| Bat 25t| Musketeer|
+| E100| Steady|
+| IS7| Battle Hardened|
+| Obj. 140| Terror|
+| Deathstar| Smashing|
+| Foch 155| Destroyer|
+| T57 Heavy| Tireless|
+| STB-1| Adamant|
 
 
 ### Lower Tier
-* Pz IV-s             Δ (o)          
-* Chi-Nu Kai          Δ Shinobi
-* Jackson             Δ M36 Valor
+| Pz IV-s| (o)          |
+| Chi-Nu Kai| Shinobi|
+| Jackson| M36 Valor|
 
 
 #### Name Addition Camo
 ### Tier Ten
-* T110e5              + T110e5 Rebel
-* AMX 50B             + AMX 50B Veteran
+| T110e5| T110e5 Rebel|
+| AMX 50B| AMX 50B Veteran|
 
 
 ### Lower Tier Name Addition Camo
-* e25                 + e25 #1
-* M4aE8               + M4ae8 Shrieking
-* Type 62             + Type 62 Dragon
-* T23e3               + T23e3 Nomad
-* KV-1s               + KV-1S Football
-* Cromwell            + Cromwell Football
-* VK36.01             + VK 36.01 Football
-* Tiger I             + Tiger I Gamescon
-* FCM50t              + FCM50t Zizou
-* FCM50t              + FCM50t Titi
-* SU-76i              + SU-76i Ice Claw
-* Ha-Go               + GuP Type 95 Ha-Go
-* STA-1               + STA-1 Rin
+| e25| e25 #1|
+| M4aE8| M4ae8 Shrieking|
+| Type 62| Type 62 Dragon|
+| T23e3| T23e3 Nomad|
+| KV-1s| KV-1S Football|
+| Cromwell| Cromwell Football|
+| VK36.01| VK 36.01 Football|
+| Tiger I| Tiger I Gamescon|
+| FCM50t| FCM50t Zizou|
+| FCM50t| FCM50t Titi|
+| SU-76i| SU-76i Ice Claw|
+| Ha-Go| GuP Type 95 Ha-Go|
+| STA-1| STA-1 Rin|
 
 
 ### Other permanent camo Name Addition tanks
-* T34                 + T34 Independance
-* IS-6                + IS-6 Fearless
-* JagTig8.8           + JagTig 8.8 Snowstorm
-* JagTig8.8           + JagTig 8.8 Snowstorm (2015)
+| T34| T34 Independance|
+| IS-6| IS-6 Fearless|
+| JagTig8.8| JagTig 8.8 Snowstorm|
+| JagTig8.8| JagTig 8.8 Snowstorm (2015)|
 
 
 ### Tanks that don't quite qualify
 These tanks look like permanent camo name addition tanks, but have slight stat differences
-* M4AE8 / Fury
-* T34-85 / T34-85 Victory
+| M4AE8 | Fury|
+| T34-85 | T34-85 Victory|
