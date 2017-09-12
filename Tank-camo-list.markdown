@@ -50,7 +50,6 @@
 | ---       | ---                         | 
 | T34       | T34 Independance            | 
 | IS-6      | IS-6 Fearless               | 
-| JagTig8.8 | JagTig 8.8 Snowstorm        | 
 | JagTig8.8 | JagTig 8.8 Snowstorm (2015) | 
 
 
