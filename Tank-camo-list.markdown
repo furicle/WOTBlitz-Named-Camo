@@ -57,7 +57,10 @@
 
 ### Tanks that don't quite qualify
 These tanks look like permanent camo name addition tanks, but have slight stat differences
+
 | Original | Other |
 |---|---|
 | M4AE8 | Fury|
 | T34-85 | T34-85 Victory|
+
+
