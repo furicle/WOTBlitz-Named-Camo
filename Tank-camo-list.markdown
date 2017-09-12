@@ -32,7 +32,7 @@
 | Before | After |
 |---|---|
 | e25| e25 #1|
-| M4aE8| M4ae8 Shrieking|
+| M4A3E8| M4A3E8 Shrieking|
 | Type 62| Type 62 Dragon|
 | T23e3| T23e3 Nomad|
 | KV-1s| KV-1S Football|
@@ -60,7 +60,7 @@ These tanks look like permanent camo name addition tanks, but have slight stat d
 
 | Original | Other |
 |---|---|
-| M4AE8 | Fury|
+| M4A3E8 | Fury|
 | T34-85 | T34-85 Victory|
 
 
