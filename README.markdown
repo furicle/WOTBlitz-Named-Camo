@@ -61,7 +61,7 @@ See also the [forum thread](http://forum.wotblitz.com/index.php?/topic/85109-cam
 ### Other permanent camo Name Addition tanks
 | Original  | Other                       | 
 | ---       | ---                         | 
-| T34       | T34 Independance            | 
+| T34       | T34 (1776)                  | 
 | IS-6      | IS-6 Fearless               | 
 | JagTig8.8 | JagTig 8.8 Snowstorm (2015) | 
 
@@ -74,5 +74,6 @@ These tanks look like permanent camo name addition tanks, but have slight stat d
 | M4A3E8   | Fury           | 
 | T34-85   | T34-85 Victory | 
 | T34-85   | T34-85 Rudy    | 
+| Hetzer   | Hetzer Kame SP | 
 
 
