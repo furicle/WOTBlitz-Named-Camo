@@ -73,5 +73,6 @@ These tanks look like permanent camo name addition tanks, but have slight stat d
 | ---      | ---            | 
 | M4A3E8   | Fury           | 
 | T34-85   | T34-85 Victory | 
+| T34-85   | T34-85 Rudy    | 
 
 
