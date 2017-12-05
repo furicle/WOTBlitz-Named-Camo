@@ -11,18 +11,20 @@ I'm considering expanding it to a list of all the various camos, but not sure an
 
 See also the [forum thread](http://forum.wotblitz.com/index.php?/topic/85109-camouflage-lists-note-blitz-historians-wanted)
 
+Note images are the vanilla versions of the tanks, without special camo.  If anyone has a complete set of high quality thumbnail links to the special camo versions, please let me know!
+
 ### Complete Name Replacement Camo
 #### Tier Ten
-| Before    | After           | Update 4.3      | 
-| ---       | ---             | ---             | 
-| Bat 25t   | Musketeer       | Musketeer       | 
-| E100      | Steady          | Stalwart        | 
-| IS7       | Battle Hardened | Battle Hardened | 
-| Obj. 140  | Dread           | Terror          | 
-| Deathstar | Smashing        | Hammer          | 
-| Foch 155  | Destroyer       | Destroyer       | 
-| T57 Heavy | Tireless        | Tireless        | 
-| STB-1     | Adamant         | Adamant         | 
+| Image | Before    | After           | Update 4.3      | 
+| ---   | ---       | ---             | ---             | 
+| <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/Bat_Chatillon25t/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Bat_Chatillon25t.png" width="100"></a> | Bat Chatillon25t   | Musketeer       | Musketeer       | 
+| Image | E100      | Steady          | Stalwart        | 
+| Image | IS7       | Battle Hardened | Battle Hardened | 
+| Image | Obj. 140  | Dread           | Terror          | 
+| Image | Deathstar | Smashing        | Hammer          | 
+| Image | Foch 155  | Destroyer       | Destroyer       | 
+| Image | T57 Heavy | Tireless        | Tireless        | 
+| Image | STB-1     | Adamant         | Adamant         | 
 
 #### Lower Tier
 | Before     | After     | 
