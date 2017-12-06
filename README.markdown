@@ -36,10 +36,10 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 
 ### Name Addition Camo
 #### Tier Ten
-| Before  | After           | 
-| ---     | ---             | 
-| T110e5  | T110e5 Rebel    | 
-| AMX 50B | AMX 50B Veteran | 
+ | Icon                                                                                                             | Image                                                                                                                                                                                                | Before  | After           | 
+ | ---                                                                                                              | ---                                                                                                                                                                                                  | ---     | ---             | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a69_t110e5.png">     | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T110/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T110.png" width="100"></a>          | T110e5  | T110e5 Rebel    | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/france-f10_amx_50b.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/AMX_50B/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/AMX_50B.png" width="100"></a> | AMX 50B | AMX 50B Veteran | 
 
 
 ### Lower Tier Name Addition Camo
