@@ -27,13 +27,12 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/japan-j16_st_b1.png">             | <a href="https://wotblitz.com/en/encyclopedia/vehicles/japan/ST_B1/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/ST_B1.png" width="100"></a>                        | STB-1             | Adamant         | Adamant         | 
 
 #### Lower Tier
-| Icon | Image | Before     | After     | 
-| ---  | ---   | ---        | ---       | 
-| Icon | Image | leKpz M 41 90mm | Cruel Twist | 
-| Icon | Image | Pz IV-s    | Pz. Kpfw. IV a (-o-) | 
-| Icon | Image | Chi-Nu Kai | Shinobi   | 
-| Icon | Image | Jackson    | M36 Valor | 
-
+ | Icon                                                                                                                      | Image                                                                                                                                                                                                                 | Before          | After                | 
+ | ---                                                                                                                       | ---                                                                                                                                                                                                                   | ---             | ---                  | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g120_m41_90.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/G120_M41_90/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/G120_M41_90.png" width="100"></a>         | leKpz M 41 90mm | Cruel Twist          | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g77_pziv_schmalturm.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/PzIV_schmalturm/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/PzIV_schmalturm.png" width="100"></a> | Pz IV-s         | Pz. Kpfw. IV a (-o-) | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/japan-j12_chi_nu_kai.png">        | <a href="https://wotblitz.com/en/encyclopedia/vehicles/japan/Chi_Nu_Kai/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Chi_Nu_Kai.png" width="100"></a>             | Chi-Nu Kai      | Shinobi              | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a31_m36_slagger.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/M36_Slagger/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/M36_Slagger.png" width="100"></a>             | Jackson         | M36 Valor            | 
 
 ### Name Addition Camo
 #### Tier Ten
