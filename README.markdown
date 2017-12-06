@@ -15,23 +15,24 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 
 ### Complete Name Replacement Camo
 #### Tier Ten
-| Image | Before    | After           | Update 4.3      | 
-| ---   | ---       | ---             | ---             | 
-| <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/Bat_Chatillon25t/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Bat_Chatillon25t.png" width="100"></a> | Bat Chatillon25t   | Musketeer       | Musketeer       | 
-| Image | E100      | Steady          | Stalwart        | 
-| Image | IS7       | Battle Hardened | Battle Hardened | 
-| Image | Obj. 140  | Dread           | Terror          | 
-| Image | Deathstar | Smashing        | Hammer          | 
-| Image | Foch 155  | Destroyer       | Destroyer       | 
-| Image | T57 Heavy | Tireless        | Tireless        | 
-| Image | STB-1     | Adamant         | Adamant         | 
+ | Icon                                                                                                                      | Image                                                                                                                                                                                                                  | Before            | Before 4.3      | Now             | 
+ | ---                                                                                                                       | ---                                                                                                                                                                                                                    | ---               | ---             | ---             | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/france-f18_bat_chatillon25t.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/Bat_Chatillon25t/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Bat_Chatillon25t.png" width="100"></a> | Bat Chatillon 25t | Musketeer       | Musketeer       | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g56_e-100.png">           | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/E-100/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/E-100.png" width="100"></a>                      | E-100             | Steady          | Stalwart        | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/ussr-r45_is-7.png">               | <a href="https://wotblitz.com/en/encyclopedia/vehicles/ussr/IS-7/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/IS-7.png" width="100"></a>                           | IS-7              | Battle Hardened | Battle Hardened | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/ussr-r97_object_140.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/ussr/Object_140/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Object_140.png" width="100"></a>               | Obj. 140          | Dread           | Terror          | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/uk-gb48_fv215b_183.png">          | <a href="https://wotblitz.com/en/encyclopedia/vehicles/uk/GB48_FV215b_183/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/GB48_FV215b_183.png" width="100"></a>       | FV215b (183)      | Smashing        | Hammer          | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/france-f64_amx_50fosh_155.png">   | <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/AMX_50Fosh_155/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/AMX_50Fosh_155.png" width="100"></a>     | Foch 155          | Destroyer       | Destroyer       | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a67_t57_58.png">              | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T57_58/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T57_58.png" width="100"></a>                        | T57 Heavy         | Tireless        | Tireless        | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/japan-j16_st_b1.png">             | <a href="https://wotblitz.com/en/encyclopedia/vehicles/japan/ST_B1/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/ST_B1.png" width="100"></a>                        | STB-1             | Adamant         | Adamant         | 
 
 #### Lower Tier
-| Before     | After     | 
-| ---        | ---       | 
-| Pz IV-s    | (o)       | 
-| Chi-Nu Kai | Shinobi   | 
-| Jackson    | M36 Valor | 
+| Icon | Image | Before     | After     | 
+| ---  | ---   | ---        | ---       | 
+| Icon | Image | leKpz M 41 90mm | Cruel Twist | 
+| Icon | Image | Pz IV-s    | Pz. Kpfw. IV a (-o-) | 
+| Icon | Image | Chi-Nu Kai | Shinobi   | 
+| Icon | Image | Jackson    | M36 Valor | 
 
 
 ### Name Addition Camo
