@@ -30,43 +30,43 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 #### Lower Tier
  | Icon                                                                                                                      | Image                                                                                                                                                                                                                 | Before          | After                | 
  | ---                                                                                                                       | ---                                                                                                                                                                                                                   | ---             | ---                  | 
- | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g120_m41_90.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/G120_M41_90/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/G120_M41_90.png" width="100"></a>         | leKpz M 41 90mm | Cruel Twist          | 
- | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g77_pziv_schmalturm.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/PzIV_schmalturm/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/PzIV_schmalturm.png" width="100"></a> | Pz IV-s         | Pz. Kpfw. IV a (-o-) | 
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/japan-j12_chi_nu_kai.png">        | <a href="https://wotblitz.com/en/encyclopedia/vehicles/japan/Chi_Nu_Kai/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Chi_Nu_Kai.png" width="100"></a>             | Chi-Nu Kai      | Shinobi              | 
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a31_m36_slagger.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/M36_Slagger/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/M36_Slagger.png" width="100"></a>             | Jackson         | M36 Valor            | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g120_m41_90.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/G120_M41_90/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/G120_M41_90.png" width="100"></a>         | leKpz M 41 90mm | Cruel Twist          | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g77_pziv_schmalturm.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/PzIV_schmalturm/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/PzIV_schmalturm.png" width="100"></a> | Pz IV-s         | Pz. Kpfw. IV a (-o-) | 
 
 ### Name Addition Camo
 #### Tier Ten
  | Icon                                                                                                             | Image                                                                                                                                                                                                | Before  | After           | 
  | ---                                                                                                              | ---                                                                                                                                                                                                  | ---     | ---             | 
- | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a69_t110e5.png">     | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T110/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T110.png" width="100"></a>          | T110e5  | T110e5 Rebel    | 
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/france-f10_amx_50b.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/AMX_50B/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/AMX_50B.png" width="100"></a> | AMX 50B | AMX 50B Veteran | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a69_t110e5.png">     | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T110/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T110.png" width="100"></a>          | T110e5  | T110e5 Rebel    | 
 
 
 ### Lower Tier Name Addition Camo
 | Before   | After             | 
 | ---      | ---               | 
-| e25      | e25 #1            | 
-| M4A3E8   | M4A3E8 Shrieking  | 
-| Type 62  | Type 62 Dragon    | 
-| T23e3    | T23e3 Nomad       | 
-| KV-1s    | KV-1S Football    | 
 | Cromwell | Cromwell Football | 
-| VK36.01  | VK 36.01 Football | 
-| Tiger I  | Tiger I Gamescon  | 
-| FCM50t   | FCM50t Zizou      | 
 | FCM50t   | FCM50t Titi       | 
-| SU-76i   | SU-76i Ice Claw   | 
+| FCM50t   | FCM50t Zizou      | 
 | Ha-Go    | GuP Type 95 Ha-Go | 
+| KV-1s    | KV-1S Football    | 
+| M4A3E8   | M4A3E8 Shrieking  | 
 | STA-1    | STA-1 Rin         | 
+| SU-76i   | SU-76i Ice Claw   | 
+| T23e3    | T23e3 Nomad       | 
+| Tiger I  | Tiger I Gamescon  | 
+| Type 62  | Type 62 Dragon    | 
+| VK36.01  | VK 36.01 Football | 
+| e25      | e25 #1            | 
 
 
 ### Other permanent camo Name Addition tanks
 | Original  | Other                       | 
 | ---       | ---                         | 
-| T34       | T34 (1776)                  | 
 | IS-6      | IS-6 Fearless               | 
 | JagTig8.8 | JagTig 8.8 Snowstorm (2015) | 
+| T34       | T34 (1776)                  | 
 
 
 ### Tanks that don't quite qualify
@@ -74,9 +74,10 @@ These tanks look like permanent camo name addition tanks, but have slight stat d
 
 | Original | Other          | 
 | ---      | ---            | 
-| M4A3E8   | Fury           | 
-| T34-85   | T34-85 Victory | 
-| T34-85   | T34-85 Rudy    | 
 | Hetzer   | Hetzer Kame SP | 
+| M4A3E8   | Fury           | 
+| T34-85   | T34-85 Rudy    | 
+| T34-85   | T34-85 Victory | 
 
 
+<!-- vim: set filetype=pandoc syntax=pandoc ts=4 sw=4 tw=0 nowrap :-->
