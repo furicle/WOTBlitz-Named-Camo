@@ -46,21 +46,21 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 
 
 ### Lower Tier Name Addition Camo
-| Before   | After             | 
-| ---      | ---               | 
-| Cromwell | Cromwell Football | 
-| FCM50t   | FCM50t Titi       | 
-| FCM50t   | FCM50t Zizou      | 
-| Ha-Go    | GuP Type 95 Ha-Go | 
-| KV-1s    | KV-1S Football    | 
-| M4A3E8   | M4A3E8 Shrieking  | 
-| STA-1    | STA-1 Rin         | 
-| SU-76i   | SU-76i Ice Claw   | 
-| T23e3    | T23e3 Nomad       | 
-| Tiger I  | Tiger I Gamescon  | 
-| Type 62  | Type 62 Dragon    | 
-| VK36.01  | VK 36.01 Football | 
-| e25      | e25 #1            | 
+ | Icon                                                                                                                          | Image                                                                                                                                                                                               | Before   | After             | 
+ | ---                                                                                                                           | ---                                                                                                                                                                                                 | ---      | ---               | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/uk-gb21_cromwell.png">                | <a href="https://wotblitz.com/en/encyclopedia/vehicles/uk/GB21_Cromwell/"><img src=https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/GB21_Cromwell.png"></a>     | Cromwell | Cromwell Football | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/france-f65_fcm_50t.png">              | <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/FCM_50t/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/FCM_50t.png"></a>            | FCM50t   | FCM50t Titi       | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/france-f65_fcm_50t.png">              | <a href="https://wotblitz.com/en/encyclopedia/vehicles/france/FCM_50t/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/FCM_50t.png"></a>            | FCM50t   | FCM50t Zizou      | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/japan-j03_ha_go.png">                 | <a href="https://wotblitz.com/en/encyclopedia/vehicles/japan/Ha_Go/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Ha_Go.png"></a>                 | Ha-Go    | GuP Type 95 Ha-Go | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/ussr-r13_kv-1s.png">                  | <a href="https://wotblitz.com/en/encyclopedia/vehicles/ussr/KV-1s/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/KV-1s.png"></a>                  | KV-1S    | KV-1S Football    | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a06_m4a3e8_sherman_training.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/M4A3E8_Sherman/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/M4A3E8_Sherman.png"></a> | M4A3E8   | M4A3E8 Shrieking  | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/japan-j13_sta_1.png">                 | <a href="https://wotblitz.com/en/encyclopedia/vehicles/japan/STA_1/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/STA_1.png"></a>                 | STA-1    | STA-1 Rin         | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/ussr-r50_su76i.png">                  | <a href="https://wotblitz.com/en/encyclopedia/vehicles/ussr/SU76I/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/SU76I.png"></a>                  | SU-76i   | SU-76i Ice Claw   | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a86_t23e3.png">                   | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T23E3/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T23E3.png"></a>                   | T23E3    | T23e3 Nomad       | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g04_pzvi_tiger_i_igr.png">    | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/PzVI/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/PzVI.png"></a>                 | Tiger I  | Tiger I Gamescon  | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/china-ch02_type62.png">               | <a href="https://wotblitz.com/en/encyclopedia/vehicles/china/Ch02_Type62/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Ch02_Type62.png"></a>     | Type 62  | Type 62 Dragon    | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g15_vk3601h.png">             | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/VK3601H/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/VK3601H.png"></a>           | VK36.01  | VK 36.01 Football | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g48_e-25.png">                | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/E-25/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/E-25.png"></a>                 | E 25     | E25 #1            | 
 
 
 ### Other permanent camo Name Addition tanks
