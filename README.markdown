@@ -1,6 +1,9 @@
 Hey All
 
-WG has introduced a lot of different camos over the last couple years. 
+WG has introduced a lot of different camos over the last couple years.  Beyond the "regular" camo that changes the appearance of the tank, they introduced "Legendary" camoflauge, that changes the *name* of the tank when applied.  The first legendary camos added to the existing name, but lately some of them *replace* the existing name altogether.  
+
+These legendary camos are not the same thing as legendary *vehicles*.  Legendary vehicles can't remove their camo, it's a permanent addition.  Legendary vehicles have their own slot in the API as well, so you can own both a regular and legendary version of the same tank.
+
 Tier ten can be confusing if you haven't kept up with all of the additions, and even in the lower tiers there are tanks that make people go 'um, what?' when they see the battle screen.
 Here's hoping this helps....
 
@@ -13,7 +16,7 @@ See also the [forum thread](http://forum.wotblitz.com/index.php?/topic/85109-cam
 
 Note images are the vanilla versions of the tanks, without special camo.  If anyone has a complete set of high quality thumbnail links to the special camo versions, please let me know!
 
-### Complete Name Replacement Camo
+### Complete Name Replacement Legendary Camo
 #### Tier Ten
   | Icon                                                                                                                      | Image                                                                                                                                                                                                                       | Before            | Before 4.3      | Now             | 
   | ---                                                                                                                       | ---                                                                                                                                                                                                                         | ---               | ---             | ---             | 
@@ -35,7 +38,7 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g120_m41_90.png">         | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/G120_M41_90/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/G120_M41_90.png" width="100"></a>         | leKpz M 41 90mm | Cruel Twist          | 
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g77_pziv_schmalturm.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/PzIV_schmalturm/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/PzIV_schmalturm.png" width="100"></a> | Pz IV-s         | Pz. Kpfw. IV a (-o-) | 
 
-### Name Addition Camo
+### Name Addition Legendary Camo
 #### Tier Ten
   | Icon                                                                                                             | Image                                                                                                                                                                                                | Before       | After                 | 
   | ---                                                                                                              | ---                                                                                                                                                                                                  | ---          | ---                   | 
@@ -45,7 +48,7 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
   | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a69_t110e5.png">     | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T110/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T110.png" width="100"></a>          | T110e5       | T110e5 Rebel          | 
 
 
-### Lower Tier Name Addition Camo
+#### Lower Tier
  | Icon                                                                                                                          | Image                                                                                                                                                                                               | Before   | After             | 
  | ---                                                                                                                           | ---                                                                                                                                                                                                 | ---      | ---               | 
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/uk-gb21_cromwell.png">                | <a href="https://wotblitz.com/en/encyclopedia/vehicles/uk/GB21_Cromwell/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/GB21_Cromwell.png" width="100"></a>     | Cromwell | Cromwell Football | 
@@ -63,7 +66,7 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g48_e-25.png">                | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/E-25/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/E-25.png" width="100"></a>                 | E 25     | E25 #1            | 
 
 
-### Other permanent camo Name Addition tanks
+### Legendary Vehicles (Permanent Unremovable Camo)
 | Original  | Other                       | 
 | ---       | ---                         | 
 | IS-6      | IS-6 Fearless               | 
@@ -72,7 +75,7 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 
 
 ### Tanks that don't quite qualify
-These tanks look like permanent camo name addition tanks, but have slight stat differences
+These tanks look like legendary vehicles (with permanent camo), but have stat differences from the regular versions of the same tank.
 
 | Original | Other          | 
 | ---      | ---            | 
