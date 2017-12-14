@@ -69,11 +69,11 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 
 
 ### Legendary Vehicles (Permanent Unremovable Camo)
-| Original  | Other                       | 
-| ---       | ---                         | 
-| IS-6      | IS-6 Fearless               | 
-| JagTig8.8 | JagTig 8.8 Snowstorm (2015) | 
-| T34       | T34 (1776)                  | 
+ | Icon                                                                                                                          | Image                                                                                                                                                                                                                                   | Original  | Other                       | 
+ | ---                                                                                                                           | ---                                                                                                                                                                                                                                     | ---       | ---                         | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/ussr-r61_object252.png">              | <a href="https://wotblitz.com/en/encyclopedia/vehicles/ussr/Object252/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Object252.png" width="100"></a>                                  | IS-6      | IS-6 Fearless               | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g65_jagdtiger_sdkfz_185.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/JagdTiger_SdKfz_185/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/JagdTiger_SdKfz_185_Snowstorm.png" width="100"></a> | JagTig8.8 | JagTig 8.8 Snowstorm (2015) | 
+ | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/usa-a13_t34_hvy.png"                  | <a href="https://wotblitz.com/en/encyclopedia/vehicles/usa/T34_hvy_Freedom/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/T34_hvy_Freedom.png" width="100"></a>                       | T34       | T34 (1776)                  | 
 
 
 ### Tanks that don't quite qualify
