@@ -1,6 +1,6 @@
 Hey All
 
-WG has introduced a lot of different camos over the last couple years.  Beyond the "regular" camo that changes the appearance of the tank, they introduced "Legendary" camoflauge, that changes the *name* of the tank when applied.  The first legendary camos added to the existing name, but lately some of them *replace* the existing name altogether.  
+WG has introduced a lot of different camos over the last couple years.  Beyond the "regular" camo that changes the appearance of the tank, they introduced "Legendary" camoflauge, that usually changes the *name* of the tank when applied.  The first legendary camos added to the existing name, but lately some of them *replace* the existing name altogether.  
 
 These legendary camos are not the same thing as legendary *vehicles*.  Legendary vehicles can't remove their camo, it's a permanent addition.  Legendary vehicles have their own slot in the API as well, so you can own both a regular and legendary version of the same tank.
 
@@ -17,6 +17,7 @@ See also the [forum thread](http://forum.wotblitz.com/index.php?/topic/85109-cam
 Note images are the vanilla versions of the tanks, without special camo.  If anyone has a complete set of high quality thumbnail links to the special camo versions, please let me know!
 
 ### Complete Name Replacement Legendary Camo
+One tank, different name when it puts on the paint
 #### Tier Ten
   | Icon                                                                                                                      | Image                                                                                                                                                                                                                       | Before            | Before 4.3      | Now             | 
   | ---                                                                                                                       | ---                                                                                                                                                                                                                         | ---               | ---             | ---             | 
@@ -41,6 +42,7 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/germany-g77_pziv_schmalturm.png"> | <a href="https://wotblitz.com/en/encyclopedia/vehicles/germany/PzIV_schmalturm/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/PzIV_schmalturm.png" width="100"></a> | Pz IV-s         | Pz. Kpfw. IV a (-o-) | 
 
 ### Name Addition Legendary Camo
+One tank, same name with extras when it puts on the paint
 #### Tier Ten
   | Icon                                                                                                             | Image                                                                                                                                                                                                | Before       | After                 | 
   | ---                                                                                                              | ---                                                                                                                                                                                                  | ---          | ---                   | 
@@ -69,6 +71,7 @@ Note images are the vanilla versions of the tanks, without special camo.  If any
 
 
 ### Legendary Vehicles (Permanent Unremovable Camo)
+Two different tanks, but identical stats.  The only difference is the paint
  | Icon                                                                                                                          | Image                                                                                                                                                                                                                                   | Original  | Other                       | 
  | ---                                                                                                                           | ---                                                                                                                                                                                                                                     | ---       | ---                         | 
  | <img src="http://us-wotp.wgcdn.co/static/2.57.0/encyclopedia/tankopedia/vehicle/contour/ussr-r61_object252.png">              | <a href="https://wotblitz.com/en/encyclopedia/vehicles/ussr/Object252/"><img src="https://glossary-na-static.gcdn.co/icons/wotb/4.4.0.1/uploaded/vehicles/hd_thumbnail/Object252.png" width="100"></a>                                  | IS-6      | IS-6 Fearless               | 
@@ -81,8 +84,9 @@ These tanks look like legendary vehicles (with permanent camo), but have stat di
 
 | Original | Other          | 
 | ---      | ---            | 
-| Hetzer   | Hetzer Kame SP | 
 | M4A3E8   | Fury           | 
+| Hetzer   | Hetzer Kame SP | 
+| IS-3     | IS-3 Defender  | 
 | T34-85   | T34-85 Rudy    | 
 | T34-85   | T34-85 Victory | 
 
