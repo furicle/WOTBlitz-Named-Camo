@@ -94,5 +94,10 @@ Two different tanks, two different sets of stats
  | T34-85   | T34-85 Rudy    | 
  | T34-85   | T34-85 Victory | 
 
+<!-- licensing info -->
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+
+<!-- end license info -->
 
 <!-- vim: set filetype=pandoc syntax=pandoc ts=4 sw=4 tw=0 nowrap :-->
